@@ -1,0 +1,31 @@
+{
+    "navigation": {
+        "Moscow": "Moscow",
+        "Moscow_short": "MSK",
+        "st-Petersburg": "St-Petersburg",
+        "st-Petersburg_short": "SPB",
+        "Novosibirsk": "Novosibirsk",
+        "Novosibirsk_short": "NSK",
+        "cta": "Submit Request"
+    },
+    "home": {
+        "about": {
+            "title": "About Us",
+            "text": "A dynamically developing transport company with many years of experience and an impeccable reputation in the freight market. We provide product transportation across an extensive network of railways in Russia and the CIS countries. The company's key principle is to provide clients with the required amount of rolling stock in a timely manner, relieving them of logistical and administrative burdens."
+        }
+    },
+    "footer": {
+            "work-hours":{
+                "title":"Working hours",
+                "time":"Mon-Fri: 9:00-21:00 (MSK)"
+            },
+            "company-credentials":{
+                "email":{
+                    "title":"Email:",
+                    "content":"sea1024@gmail.com"
+                },
+                "taxpayer-id":"Taxpayer Identification Number (INN): 73685214",
+                "license-info":"LLC «WalterWhite». All rights reserved."
+            }
+    }
+}

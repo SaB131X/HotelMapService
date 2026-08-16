@@ -1,0 +1,50 @@
+/* Основные стили */
+.main {
+    min-height: 70vh;
+}
+
+/* Блок 1. О компании */
+.map {
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    scroll-margin-top: 80px;
+    min-height: 500px;
+    align-items: center;
+}
+
+.map-content {
+    height: 100vh;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+}
+
+
+
+
+/* Адаптивные стили */
+@media (max-width: 768px) {
+    .map-content {
+        max-width: 900px;
+        margin: 0 auto;
+        text-align: center;
+        color: white;
+    }
+    
+    .section-title {
+        text-align: center;
+        font-size: 2rem;
+        margin-bottom: 3rem;
+        color: #333;
+    }
+    .section-title-light {
+        font-size: 1.5rem;
+        text-align: center;
+        margin-bottom: 3rem;
+        color: white;
+        font-weight: bold;
+        text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+    }
+    
+}
